@@ -15284,10 +15284,10 @@ entries:
       catalog.cattle.io/rancher-version: '>= 2.7.0-0'
       catalog.cattle.io/release-name: rancher-provisioning-capi
     apiVersion: v1
-    appVersion: 1.4.4
-    created: "2023-09-06T14:54:17.66821-07:00"
+    appVersion: 1.5.2
+    created: "2023-10-19T21:49:22.386059577+05:30"
     description: capi-controller-manager compatible with Rancher Provisioning
-    digest: 1f195a10d86eb0041b33056a16fe25b8aaa253757937dd6e7a1885f0370e6f22
+    digest: 461e7558e93ff25d81a7f7c1dd9d3d7fafd1d012e5de9bf80c5fb96946f9f4ff
     home: https://github.com/rancher/provisioning/blob/main/charts/capi/
     maintainers:
     - email: chris.kim@suse.com

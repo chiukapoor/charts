@@ -10,7 +10,7 @@ annotations:
   catalog.cattle.io/rancher-version: '>= 2.7.0-0'
   catalog.cattle.io/release-name: rancher-provisioning-capi
 apiVersion: v1
-appVersion: 1.4.4
+appVersion: 1.5.2
 description: capi-controller-manager compatible with Rancher Provisioning
 home: https://github.com/rancher/provisioning/blob/main/charts/capi/
 maintainers:
