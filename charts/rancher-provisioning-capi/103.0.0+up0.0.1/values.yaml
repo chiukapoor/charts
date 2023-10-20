@@ -1,5 +1,5 @@
 image:
-  repository: rancher/mirrored-cluster-api-controller
+  repository: csociety/mirrored-cluster-api-controller
   tag: v1.5.2
   imagePullPolicy: IfNotPresent
 

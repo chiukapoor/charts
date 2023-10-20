@@ -12,11 +12,11 @@ annotations:
 apiVersion: v1
 appVersion: 1.5.2
 description: capi-controller-manager compatible with Rancher Provisioning
-home: https://github.com/rancher/provisioning/blob/main/charts/capi/
+home: https://github.com/chiukapoor/provisioning/blob/main/charts/capi/
 maintainers:
 - email: chris.kim@suse.com
   name: Chris Kim
 name: rancher-provisioning-capi
 sources:
-- https://github.com/rancher/provisioning/blob/main/charts/capi/
+- https://github.com/chiukapoor/provisioning/blob/main/charts/capi/
 version: 103.0.0+up0.0.1
