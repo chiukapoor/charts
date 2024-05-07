@@ -1,5 +1,5 @@
-url: https://github.com/rancher/system-charts.git
+url: https://github.com/chiukapoor/system-charts.git
 subdirectory: charts/rancher-k3s-upgrader/0.7.0
-commit: c95f8395d45c828d6e92917524e3aa285d2299f2
+commit: ac6dbe6bb4c47fd3a16825a471ef3258a1673a68
 version: 104.0.0
 doNotRelease: false
